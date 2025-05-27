@@ -1,0 +1,5 @@
+.clamp{
+    background-color: red;
+    width:clamp(400px,600px);
+    height: clamp(300px,800px);
+}
